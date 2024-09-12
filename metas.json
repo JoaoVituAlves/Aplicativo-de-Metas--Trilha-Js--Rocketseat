@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Andar",
+    "checked": true
+  },
+  {
+    "value": "Correr",
+    "checked": true
+  },
+  {
+    "value": "Beber agua",
+    "checked": false
+  },
+  {
+    "value": "Trote",
+    "checked": false
+  }
+]
